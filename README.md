@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **in a project of LGPD and ISO 27001**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MarcOLV/Faculdade-exercicios](https://github.com/MarcOLV/Faculdade-exercicios)
+- 👨‍💻 All of my projects are available at [Faculdade-exercicios](https://github.com/MarcOLV/Faculdade-exercicios)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
